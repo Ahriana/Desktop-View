@@ -1,6 +1,8 @@
-# desktop-view
+[![Build Status](https://travis-ci.org/RosieCode95/Desktop-View.svg?branch=master)](https://travis-ci.org/RosieCode95/Desktop-View)
 
-> desktop wallpapers
+# Desktop View
+multi platform wallpaper builder
+
 
 #### Build Setup
 
@@ -19,7 +21,3 @@ npm run build
 npm run lint
 
 ```
-
----
-
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
